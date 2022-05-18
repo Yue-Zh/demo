@@ -1,0 +1,472 @@
+
+
+账户：yan329164@gmail.com
+密码：2927468llj
+
+
+"C:\Program Files\Google\Chrome\Application\chrome.exe" --disable-web-security --user-data-dir=C:\MyChromeDevUserData --disable-features=SameSiteByDefaultCookies,CookiesWithoutSameSiteMustBeSecure
+
+
+
+
+npm run start
+
+
+BTP
+
+
+1.
+
+①BTP（table)→Fiori
+②CDSVIEW→CDSVIEW
+
+2.
+Fiori　Java　Deploy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"sap.ui.commons.layout.PositionContainer" class is deprecated
+
+
+
+
+
+
+
+
+https://github.com/jcailan/cap-samples.git
+
+
+"sap.ui.commons.layout.AbsoluteLayout" class is deprecated
+
+
+
+
+
+SAP HANA Cloud Platform Cockpit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sap business application studio code ELIFECYCLE syscall spawn
+
+
+未転記伝票一括削除処理結果画面
+
+
+未転記転票％1件数を削除しますが、よろしいでしょうか？\n
+％1：削除する未転記転票の件数
+
+
+未転記伝票一括削除実行画面
+
+会社コード
+会計年度
+伝票番号
+未転記伝票一括削除プログラム
+
+
+
+
+npm WARN lifecycle The node binary used for scripts is /extbin/bin/node but npm is using /opt/nodejs/node-v14.17.6-linux-x64/bin/node itself. Use the `--scripts-prepend-node-path` option to include the path for the node binary npm was executed with.
+
+> sapui5@0.0.1 start /home/user/projects/BTP1
+> fiori run --open "test/flpSandbox.html?sap-ui-xx-viewCache=false#sapbtpsapui5-display"
+
+sh: 1: fiori: not found
+npm ERR! code ELIFECYCLE
+npm ERR! syscall spawn
+npm ERR! file sh
+npm ERR! errno ENOENT
+npm ERR! sapui5@0.0.1 start: `fiori run --open "test/flpSandbox.html?sap-ui-xx-viewCache=false#sapbtpsapui5-display"`
+npm ERR! spawn ENOENT
+npm ERR! 
+npm ERR! Failed at the sapui5@0.0.1 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+npm WARN Local package.json exists, but node_modules missing, did you mean to install?
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/user/.npm/_logs/2022-05-10T08_07_23_105Z-debug.log
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+http://localhost:8080/webide/index.html
+
+
+
+
+
+
+
+
+
+
+https://accounts.sap.com/saml2/idp/sso?sp=cockpit-trial-cf-eu10&RelayState=response_type%3Dcode%26scope%3Dopenid%26redirect_uri%3Dhttps%253A%252F%252Fcockpit.hanatrial.ondemand.com%252Flogin%252Fcallback%26client_id%3D9868c363-bc2d-407f-bc14-2ef649230f6f%26state%3D4364102516314
+
+mailto:liujy930@outlook.jp
+
+Ljy1306912*
+
+
+echo "# BTP" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Yue-Zh/demo.git
+git push -u origin main
+
+
+
+git clone https://github.com/Yue-Zh/sapbtp_test01.git
+
+
+
+ 
+
+git init 
+
+git add 
+git status
+git commit -m 'first commit'
+git push 
+
+
+
+
+
+
+作業報告書（趙悦）
+
+
+氏名：趙悦
+報告日：2022/5/16
+
+１．先週の作業実績
+・開発作業(定常)
+　　BTP案件/Build-Inのパッケージの整理(0.5人日)/完了
+　　BTP案件/SAP BUILDを利用してデモの作成(1人日)/完了
+　　BTP案件/FioriプロジェクトでJAVA　APIの呼出(0.75人日)/完了
+　　BTP案件/デモをFioriプロジェクトに作成(1.75人日)/作成中
+　　BTP案件/SAP UI5の勉強(1人日)/作成中　
+
+・依頼作業（突発）
+　　
+・計画外作業
+　　無し
+
+２．今週作業予定
+・開発作業
+　BTP案件/JAVA　APIデモの勉強
+　BTP案件/SAP UI5の勉強
+　BTP案件/SAP Fioriの勉強
+・依頼作業
+   無し
+
+３．特記事項
+・問題報告：
+　BTPプロジェクトにてSAP BUILDを利用して作成された画面を利用したらたくさん改修しますが、
+　コントロールのほうは参考できる
+　　
+・勤怠予定：
+　無し
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CDSVIEW  Button
+
+https://blogs.sap.com/2019/05/31/fiori-elements-list-add-and-implement-action-button/
+
+
+
+
+{BTP_DevSpace・プロジェクト作成手順}/0.5人日/100%										
+{BTP_HDIコンテナ接続アドオンテーブル作成手順}/0.75人日/100%										
+{BTP_CDS ビュー・ ListReport作成手順}/1.25人日/100%										
+Fioriデモ作成（ドラッグ画面）/1人日/100%										
+Fioriデモ作成（ボタン押下画面遷移）/1.5人日/100%										
+
+
+
+Sap Build
+https://build.accounts.ondemand.com/saml2/idp/sso/build.accounts.ondemand.com
+
+账户:zytoday19@gmail.com
+密码:!Qaz2wsx3edc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+t [--version] [--help] [-C <path>] [-c <name>=<value>]
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+           [--super-prefix=<path>] [--config-env=<name>=<envvar>]
+           <command> [<args>]
+
+
+Generating public/private rsa key pair.
+Enter file in which to save the key (C:\Users\Admin/.ssh/id_rsa):
+Created directory 'C:\Users\Admin/.ssh'.
+
+
+
+git remote add origin git@github.com:Yue-Zh/sapbtp-test.git
+git push -u origin master
+
+
+
+
+git clone https://oauth2:glpat-Qr3eyKxGrZwupjvP2ZmJ@jp-tok.git.cloud.ibm.com/cca/sap-btp-poc.git
+
+git clone https://github.com/Yue-Zh/sapbtp-test.git
+
+
+
+
+
+mvn -B archetype:generate -DarchetypeArtifactId=cds-services-archetype -DarchetypeGroupId=com.sap.cds \
+-DarchetypeVersion=1.17.0 \
+-DgroupId=com.sap.cap -DartifactId=products-service -Dpackage=com.sap.cap.productsservice
+
+
+
+mailto:liujy930@outlook.jp
+Ljy1306912*
+
+
+
+https://www.build.me/projects/eyJwcm9qZWN0SWQiOiJjMDcxMTAzMDgxMmI5Njc0MTcyMTEwNGYiLCJ0ZW5hbnQiOiJzdGFuZGFyZCIsImJvbVZlcnNpb24iOjJ9
+
+
+
+
+
+2022/04/12 会議記事
+
+
+1.来週の月曜日（2022/04/18)13:00-16:00時デモを提出する予定
+本週の金曜日までに検討結果など内部に提出する
+
+2．
+2-1.渡辺さんからもらったサンプルを運行する→金、劉、宋
+*仕様を変えなくて運行だけ
+
+2-2.二本仕様の確認、見積りの作成
+2-2-1.テーブルの削除→張
+2-2-2.データの検索→趙
+
+3．課題
+①APIによりABAPからデータを取得と処理する方法
+
+
+
+
+学习课件自取链接：https://pan.baidu.com/s/1fpI81BI7PwuzZhtvB73e-A (提取码Q599)
+liujy930@outlook.jp
+Ljy1306912*
+
+
+
+学習プラン
+
+
+0414
+1.SAPBTP 左menu
+2.DEV Space
+3.project model
+4.cdsview 
+module
+application title
+
+
+5.データベースにどのような種類のデータをどのような構造で格納するか定義したものをスキーマという。
+6.Bind the database module to a cloud foundry service instance
+
+
+Zoomミーティングに参加する 
+https://us02web.zoom.us/j/82197291070?pwd=dTlDZ0dGODJrNnVjMFRwK2tpWWc1UT09 
+ミーティングID: 821 9729 1070 
+パスコード: 102002 
+
+
+
+https://www.cnblogs.com/yjyongil/p/11039052.html
+
+
+2022/04/12 会議記事
+
+
+1.来週の月曜日（2022/04/18)13:00-16:00時デモを提出する予定
+本週の金曜日までに検討結果など内部に提出する
+
+2．
+2-1.渡辺さんからもらったサンプルを運行する→金、劉、宋
+*仕様を変えなくて運行だけ
+
+2-2.二本仕様の確認、見積りの作成
+2-2-1.テーブルの削除→張
+2-2-2.データの検索→趙
+
+3．課題
+①APIによりABAPからデータを取得と処理する方法
+
+
+
+
+
+0411
+権限セットライセンスを購入すると、それに関連するユーザライセンスも付属する場合があります。
+また、Salesforce 組織に、引き続きサポート対象でありながら、現在は購入できない他のライセンスがある可能性もあります。
+詳細は、Salesforce にお問い合わせください。
+
+1.本周工作内容 工作进度 需更新汇报
+2.创建list view问题及分享
+主要是宋桑在讲
+3.创建list view 1900行之后不用做
+操作时可参照CDC-company表
+
+
+
+
+1.多云应用
+
+2.sap术标准
+
+3.BTP mdg nerverger 
+
+(on premis-hanna,bw)
+
+4.BTPクラウド
+
+扩展套件
+
+集成套件
+
+
+
+服务sap所有应用
+
+应用开发扩展集成在一个平台
+
+sfdc?
+
+
+
+5.中台微服务异步
+
+运行时-应用服务器
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
