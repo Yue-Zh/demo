@@ -1,0 +1,37 @@
+<mvc:View
+	controllerName="sap.ui.demo.walkthrough.controller.HelloPanel"
+	xmlns="sap.m"
+	xmlns:mvc="sap.ui.core.mvc">
+	<Panel
+		headerText="{i18n>helloPanelTitle}"
+		class="sapUiResponsiveMargin"
+		width="auto">
+		<content>
+			<Button
+				id="helloDialogButton"
+				icon="sap-icon://world"
+				text="{i18n>openDialogButtonText}"
+				press=".onOpenDialog"
+				class="sapUiSmallMarginEnd"
+				visible="false"/>
+			<Text
+				text="闔ｨ螟ゑｽ､�ｽｾ郢ｧ�ｽｳ郢晢ｽｼ郢晢ｿｽ"
+				class="sapUiSmallMargin myCustomText"
+			/>
+			<Input
+				value="{/recipient/code}"
+				valueLiveUpdate="true"
+				width="30%"/>
+			<Button
+				text=""
+				press=".onSearch"
+				type="Default" 
+				icon="sap-icon://search"
+				class="myCustomButton"/>
+			<FormattedText
+				htmlText="Hello {/recipient/name}"
+				class="sapUiSmallMargin sapThemeHighlight-asColor myCustomText"
+				visible="false"/>
+		</content>
+	</Panel>
+</mvc:View>

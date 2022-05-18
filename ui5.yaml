@@ -1,0 +1,11 @@
+specVersion: '2.3'
+metadata:
+  name: "sap.m.tutorial.walkthrough.19"
+type: application
+resources:
+  configuration:
+    paths:
+      webapp: ./webapp/
+framework:
+  name: OpenUI5
+  version: "1.101.0"
